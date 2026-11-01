@@ -1,0 +1,12 @@
+{
+  "name": "mechpitbrawl",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Four-player local mech brawler on a crumbling lava platform.",
+  "scripts": {
+    "start": "python3 server.py",
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}
